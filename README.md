@@ -4,16 +4,16 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(June 25, 2017)
 
 ## Student Name:  
-(First and Last Name)
+(Scott Campbell)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(Create and configure GitHub Account, configure Cloud9 for git, and move files to local and remote repositories, then create a webpage with the Bootstarp template with summararies five key concepts from Lesson 3 )
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Learned about Version Control Systems)
+2. (Learned about Git, how to create a depository in it, and link it to Cloud9)
+3. (How to push Cloud9 files to the depository)
 
